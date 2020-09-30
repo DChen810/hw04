@@ -1,6 +1,3 @@
-"""Test for SSW567_HomeWork_Week 4
-    Xiaomeng Xu"""
-
 import unittest
 from hw04 import getRepo, getCommit
 
